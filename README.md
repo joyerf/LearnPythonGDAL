@@ -1,9 +1,9 @@
 # LearnPythonGDAL
 Learn Python And GDAL!
->考虑到机器学习及人工智能相关算法在Python3.x版本上支持更好，因此在图纸智能识别和设计项目中，使用了Python3.7。目前业界比较通用的做法是使用GDAL这个开源库来对建筑图纸的数据读写及处理。然而对于GDAL的支持大多使用Python2.7的版本，Python3.x的资料相对较少。本文主要记录在安装使用过程中一路踩过的坑。
-# 一、Python3.7的安装
+>考虑到机器学习及人工智能相关算法在Python3.x版本上支持更好，因此在图纸智能识别和设计项目中，使用了Python3.7。目前业界比较通用的做法是使用GDAL这个开源库来对建筑图纸的数据读写及处理。然而对于GDAL的支持大多使用Python2.7.x的版本，Python3.x的资料相对较少。
+# 一、Python3.x的安装
 从[Python官网](https://www.python.org/ "Python官网")下载适合你电脑的版本，然后进行安装。安装完成之后打开Python3.7 
-# 二、Python3.7下GDAL的配置
+# 二、Python3.x下GDAL的配置
 Python下配置GDAL实际上可以分两大部分：  
 
 - 一部分是“Core”的配置。Core是GDAL的公有DLL库，所有语言都会调用这些DLL实现功能。  
