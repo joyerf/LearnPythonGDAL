@@ -34,12 +34,17 @@ CD至定位到swig\python目录后，以此输入下面两个命令
 最后，依次安装Core安装包和Binding安装包。
 完成后打开Python的包目录，可以发现已经多了如下文件，这就是我们在Python下调用GDAL需要用到的文件了。  
 ![Alt text](https://github.com/joyerf/LearnPythonGDAL/blob/master/asset/gdal_dir.png)  
-#### 2.2、whl文件安装
+#### 2.2、pip安装whl文件
 1. 从<https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal>网站，根据python版本下载相应的GDAL安装文件。  
 比如Python3.7下载[GDAL‑2.3.2‑cp37‑cp37m‑win\_amd64.whl](https://download.lfd.uci.edu/pythonlibs/h2ufg7oq/GDAL-2.3.2-cp37-cp37m-win_amd64.whl)    
 2. 下载完成后，打开命令提示符输入下面命令，即可安装GDAL。  
 ````
     pip install GDAL‑2.3.2‑cp37‑cp37m‑win_amd64.whl
+````
+#### Anaconda安装gdal
+使用 Anaconda 管理 Python 的包非常方便，大部分的 Python 包都可以通过 Anaconda 进行安装，GDAL也不例外。可以采用如下命令进行安装：
+````
+    conda install gdal 
 ````
 ### 3、检验是否安装成功
 ![Alt text](https://github.com/joyerf/LearnPythonGDAL/blob/master/asset/gadl_version.png)  

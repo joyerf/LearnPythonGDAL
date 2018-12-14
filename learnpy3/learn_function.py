@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
+' learn function module '
+
+__author__ = 'Zongchang Jie'
+
 import os
 
 try:
