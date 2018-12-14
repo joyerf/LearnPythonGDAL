@@ -3,17 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a518d6fb-23a1-4b5c-a7d0-7bf3650e5861" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/LearnPythonGDAL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnpy3/learn_higher_order_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnpy3/learn_oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnpy3/learn_orm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecongnizeCorridor/DrawingHandler.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learnpy3/learnpy3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/learnpy3/learn_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn_grammar.py" beforeDir="false" afterPath="$PROJECT_DIR$/learnpy3/learn_grammar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn_higher_order_function.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,6 +17,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LearnPythonGDAL$learn_orm.coverage" NAME="learn_orm Coverage Results" MODIFIED="1544770622403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnpy3" />
+    <SUITE FILE_PATH="coverage/LearnPythonGDAL$recogcorridor.coverage" NAME="recogcorridor Coverage Results" MODIFIED="1544780750681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RecongnizeCorridor" />
     <SUITE FILE_PATH="coverage/LearnPythonGDAL$learn_higher_order_function.coverage" NAME="learn_higher_order_function Coverage Results" MODIFIED="1544518386239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnPythonGDAL$learn_oop.coverage" NAME="learn_oop Coverage Results" MODIFIED="1544752032550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnpy3" />
     <SUITE FILE_PATH="coverage/LearnPythonGDAL$learn_function.coverage" NAME="learn_function Coverage Results" MODIFIED="1544531651632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnpy3" />
@@ -49,8 +43,8 @@
       <file leaf-file-name="learn_oop.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learnpy3/learn_oop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="171">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="61" />
               <folding>
                 <element signature="e#47#59#0" expanded="true" />
               </folding>
@@ -58,35 +52,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="learn_orm.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learnpy3/learn_orm.py">
+      <file leaf-file-name="recogcorridor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RecongnizeCorridor/recogcorridor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="70" column="18" lean-forward="true" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
+            <state relative-caret-position="133">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
               <folding>
-                <element signature="e#47#61#0" expanded="true" />
+                <element signature="e#47#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="learn_higher_order_function.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnpy3/learn_higher_order_function.py">
+      <file leaf-file-name="DrawingHandler.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RecongnizeCorridor/DrawingHandler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="199" selection-start-line="199" selection-end-line="199" selection-end-column="26" />
-              <folding>
-                <element signature="e#47#75#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="106">
+              <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="learn_function.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnpy3/learn_function.py">
+      <file leaf-file-name="gdal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/gdalpy/Lib/site-packages/osgeo/gdal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="248">
+              <caret line="1259" selection-start-line="1259" selection-end-line="1259" />
             </state>
           </provider>
         </entry>
@@ -94,20 +85,11 @@
       <file leaf-file-name="gdalTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gdalTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="148">
+              <caret line="126" column="28" lean-forward="true" selection-start-line="126" selection-start-column="28" selection-end-line="126" selection-end-column="28" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="learn_grammar.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learnpy3/learn_grammar.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="153" selection-start-line="153" selection-end-line="153" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -135,6 +117,10 @@
         <option value="$PROJECT_DIR$/learnpy3/learn_oop.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/learnpy3/learn_orm.py" />
+        <option value="$PROJECT_DIR$/RecongnizeCorridor/ReadShape.py" />
+        <option value="$PROJECT_DIR$/RecongnizeCorridor/ShapeDrawing.py" />
+        <option value="$PROJECT_DIR$/RecongnizeCorridor/recogcorridor.py" />
+        <option value="$PROJECT_DIR$/RecongnizeCorridor/DrawingHandler.py" />
       </list>
     </option>
   </component>
@@ -167,6 +153,16 @@
               <item name="LearnPythonGDAL" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnPythonGDAL" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LearnPythonGDAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnPythonGDAL" type="462c0819:PsiDirectoryNode" />
+              <item name="learnpy3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnPythonGDAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnPythonGDAL" type="462c0819:PsiDirectoryNode" />
+              <item name="RecongnizeCorridor" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,10 +172,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7 (LearnPythonGDAL)" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -201,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.learn_orm">
+  <component name="RunManager" selected="Python.recogcorridor">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -350,6 +347,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="recogcorridor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RecongnizeCorridor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RecongnizeCorridor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RecongnizeCorridor/recogcorridor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration default="true" type="Python.FlaskServer" factoryName="Flask server">
       <module name="learnpy3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -476,9 +492,11 @@
       <item itemvalue="Python.learn_oop" />
       <item itemvalue="Python.gdalTest" />
       <item itemvalue="Python.learn_orm" />
+      <item itemvalue="Python.recogcorridor" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.recogcorridor" />
         <item itemvalue="Python.learn_orm" />
         <item itemvalue="Python.learn_oop" />
         <item itemvalue="Python.gdalTest" />
@@ -505,7 +523,7 @@
       <workItem from="1544602022098" duration="608000" />
       <workItem from="1544615486814" duration="984000" />
       <workItem from="1544616664566" duration="7528000" />
-      <workItem from="1544681897692" duration="14926000" />
+      <workItem from="1544681897692" duration="21821000" />
     </task>
     <task id="LOCAL-00001" summary="edit mark down">
       <created>1544431647100</created>
@@ -521,11 +539,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544431821942</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="python基础完成">
+      <created>1544771782487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544771782488</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46114000" />
+    <option name="totallyTimeSpent" value="53009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -572,38 +597,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit mark down" />
     <MESSAGE value="edit README" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit README" />
+    <MESSAGE value="python基础完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="python基础完成" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gdalTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coordTransform.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnpy3/learn_higher_order_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3762">
-          <caret line="199" selection-start-line="199" selection-end-line="199" selection-end-column="26" />
-          <folding>
-            <element signature="e#47#75#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learnpy3/learn_oop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -906,27 +903,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gdalTest.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnpy3/learn_orm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="733">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#47#61#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnpy3/learn_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnpy3/learn_grammar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="153" selection-start-line="153" selection-end-line="153" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -940,33 +933,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learnpy3/learn_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnpy3/learn_grammar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="153" selection-start-line="153" selection-end-line="153" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gdalTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="126" column="28" lean-forward="true" selection-start-line="126" selection-start-column="28" selection-end-line="126" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecongnizeCorridor/recogcorridor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#47#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learnpy3/learn_oop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="23" />
+        <state relative-caret-position="171">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="61" />
           <folding>
             <element signature="e#47#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="95">
-            <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/gdalpy/Lib/site-packages/osgeo/gdal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="1259" selection-start-line="1259" selection-end-line="1259" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learnpy3/learn_orm.py">
+    <entry file="file://$PROJECT_DIR$/RecongnizeCorridor/DrawingHandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="70" column="18" lean-forward="true" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
-          <folding>
-            <element signature="e#47#61#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="106">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1023,7 +1044,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>learnpy3</last-edited>
+          <last-edited>RecongnizeCorridor</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
