@@ -6,6 +6,7 @@
 __author__ = 'Zongchang Jie'
 
 import os
+import sys
 
 try:
     # Python 3
@@ -233,3 +234,6 @@ if __name__ == '__main__':
     learn_list_comprehensions()
     print('````````````````````````````````````````````````````````')
     learn_generator()
+    print('````````````````````````````````````````````````````````')
+    print('python file:', __file__, sys._getframe().f_code.co_name, sys._getframe().f_lineno,
+          sys._getframe().f_back.f_code.co_name)
